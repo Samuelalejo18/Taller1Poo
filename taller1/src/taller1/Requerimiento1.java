@@ -51,4 +51,8 @@ public class Requerimiento1 {
 		return numero1 % numero2;
 
 	}
+	@Override
+	public String toString() {
+		return "Requerimiento1 [numero1=" + numero1 + ", numero2=" + numero2 + "]";
+	}s
 }
