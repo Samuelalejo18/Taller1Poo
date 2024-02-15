@@ -54,7 +54,7 @@ public class Requerimiento2 {
 
 	}
 
-	public int medio() {
+	public int intermedio() {
 		int medio = 0;
 		if ((numero1 > numero2 && numero1 < numero3) || (numero1 < numero2 && numero1 > numero3)) {
 			medio = numero1;
