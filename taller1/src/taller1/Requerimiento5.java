@@ -33,5 +33,9 @@ public class Requerimiento5 {
 			return impar = "impar";
 		}
 	}
+	@Override
+	public String toString() {
+		return "Requerimiento5 [numero1=" + numero1 + "]";
+	}
 
 }
