@@ -43,7 +43,7 @@ public class Requerimiento1 {
 		return numero1 * numero2;
 	}
 
-	public int dividir() {
+	public double dividir() {
 		return numero1 / numero2;
 	}
 
