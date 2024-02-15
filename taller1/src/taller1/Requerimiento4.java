@@ -20,7 +20,7 @@ public class Requerimiento4 {
 		this.numero1 = numero1;
 	}
 
-	public String positivoCero() {
+	public String evaluarPositivoCeroNegativo() {
 		String numeroPositivo;
 		String numeroNegativo;
 		String numeroCero;
