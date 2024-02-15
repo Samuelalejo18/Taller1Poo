@@ -34,4 +34,8 @@ public class Requerimiento4 {
 		}
 
 	}
+	@Override
+	public String toString() {
+		return "Requerimiento4 [numero1=" + numero1 + "]";
+	}
 }
